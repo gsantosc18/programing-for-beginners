@@ -1,3 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
+title: Programação para Iniciantes
+description: Essa página é dedicada a todas as pessoas que querem iniciar na área de desenvolvimento e buscam um ponto de partida.
 plugins:
 - jekyll-remote-theme
