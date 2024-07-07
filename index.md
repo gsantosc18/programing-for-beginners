@@ -1,3 +1,8 @@
+---
+layout: default
+title: Programação para Iniciantes
+theme: minima
+---
 # Programação para Iniciantes
 
 Este documentos tem a finalidade de ajudar as pessoas iniciantes em programação a encontrar o caminho das pedras através de playlists de cursos básicos encontrados no youtube.
