@@ -1,6 +1,12 @@
-# Programação para Iniciantes
+# Motivação
 
 Este documentos tem a finalidade de ajudar as pessoas iniciantes em programação a encontrar o caminho das pedras através de playlists de cursos básicos encontrados no youtube.
+
+# Para quem esses cursos são recomendados?
+
+Esses cursos são recomendados para aquelas pessoas que não tem noção de por onde começar a estudar na área de programação. Caso você já tenha comenhecimentos e já até esteja atuando na área, siga por outros caminhos para reforçar seus pontos de deficiência de estudos e boa sorte!
+
+# Trilha
 
 > Para uma evolução gradativa é recomendada a visualização das playlists na sequência em que são colocadas aqui
 
