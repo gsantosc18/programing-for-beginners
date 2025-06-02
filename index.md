@@ -4,7 +4,7 @@ Este documentos tem a finalidade de ajudar as pessoas iniciantes em programaçã
 
 # Para quem esses cursos são recomendados?
 
-Esses cursos são recomendados para aquelas pessoas que não tem noção de por onde começar a estudar na área de programação. Caso você já tenha comenhecimentos e já até esteja atuando na área, siga por outros caminhos para reforçar seus pontos de deficiência de estudos e boa sorte!
+Esses cursos são recomendados para aquelas pessoas que não tem noção de por onde começar a estudar na área de programação. Caso você já tenha conhecimentos e já até esteja atuando na área, siga por outros caminhos para reforçar seus pontos de deficiência de estudos e boa sorte!
 
 # Trilha
 
